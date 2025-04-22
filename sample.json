@@ -2,43 +2,25 @@
     {
         "text": "امتحان",
         "startMs": 0,
-        "endMs": 0.219,
+        "endMs": 219,
         "type": "word"
-    },
-    {
-        "text": " ",
-        "startMs": 0.219,
-        "endMs": 0.219,
-        "type": "spacing"
     },
     {
         "text": "تست",
-        "startMs": 0.219,
-        "endMs": 0.439,
+        "startMs": 219,
+        "endMs": 439,
         "type": "word"
-    },
-    {
-        "text": " ",
-        "startMs": 0.439,
-        "endMs": 0.56,
-        "type": "spacing"
     },
     {
         "text": "زیرنویس",
-        "startMs": 0.56,
-        "endMs": 1.099,
+        "startMs": 560,
+        "endMs": 1099,
         "type": "word"
     },
     {
-        "text": " ",
-        "startMs": 1.099,
-        "endMs": 1.199,
-        "type": "spacing"
-    },
-    {
         "text": "3D.",
-        "startMs": 1.199,
-        "endMs": 1.799,
+        "startMs": 1199,
+        "endMs": 1799,
         "type": "word"
     }
 ]
